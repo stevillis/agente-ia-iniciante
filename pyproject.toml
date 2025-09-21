@@ -11,4 +11,5 @@ dependencies = [
     "numexpr==2.12.1",
     "python-dotenv==1.1.1",
     "wikipedia==1.4.0",
+    "streamlit==1.49.1",
 ]

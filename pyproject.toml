@@ -1,0 +1,14 @@
+[project]
+name = "agente-ia-iniciante"
+version = "0.1.0"
+description = "Desmistificando AI Agents: Um Guia Prático Para Iniciantes com Python e LangChain 🐍🦜️🔗"
+requires-python = ">=3.11.9"
+
+dependencies = [
+    "langchain==0.3.27",
+    "langchain-community==0.3.29",
+    "langchain-google-genai==2.1.12",
+    "numexpr==2.12.1",
+    "python-dotenv==1.1.1",
+    "wikipedia==1.4.0",
+]
